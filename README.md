@@ -9,4 +9,5 @@ Courtesy Source:http://rni.nic.in/pdf_file/pin2021_22/Chapter%202.pdf(OFFICE OF 
 
 
 ![newspaperpublication](https://user-images.githubusercontent.com/125786274/222778229-627f99aa-986f-4ba9-a8d4-36857cade550.png)
+
 [readpdf.zip](https://github.com/anandkulkarnim/Exploratory-data-analysis-with-python-libraries/files/10884356/readpdf.zip)
