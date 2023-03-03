@@ -1,6 +1,6 @@
 # Exploratory-data-analysis-with-python-libraries
 
-This is data visualization project in Python and visualization package: Seaborn. 
+This is exploratory data analysis project in Python and visualization package: Seaborn. 
 It also uses read_pdf function to directly fetch data table from Website
 
 Prerequisite: Install Tabula package
